@@ -1,0 +1,52 @@
+{
+  "basics":{
+  "name":"Meghana Maggi",
+  "email":"meghanamaggi@gmail.com",
+  "mobile":"+91-987654321"
+
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "degree":"B.Tech(C.S.E)",
+  "institute":"Avanthi",
+  "data":["2015-19","76%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"Sri Chaitanya",
+  "data":["2013-15","87%"]
+
+},
+{
+"degree":"I.C.S.E",
+"institute":"De Paul",
+"data":["2013","76%"]
+}
+],
+"skills":[
+  {
+    "title":"Programming Languages",
+    "info":["c","c++","java"]
+
+  },
+  {
+  "title":"DataBase",
+  "info":["MongoDB","mySql","oracle"]
+},
+{
+  "title":"Web Technologies",
+  "info":["HTML5","CSS3","JavaScript"]
+},
+{
+  "title":"Libraries and framework",
+  "info":["Angular","ionic",".net","expressJs"]
+},
+{
+  "title":"Operating System",
+  "info":["linux","windows","Dos"]
+}
+]
+}
